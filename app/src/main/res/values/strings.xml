@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SeoulGo</string>
+    <string name="title_activity_test">Test</string>
+    <string name="developer_info">미흡한 앱이지만 재미있게 즐겨 주세요!\n\n[제작자]\n명세교 : sekyo95@naver.com\n최준영 : cupjoo@naver.com\n김정빈 : jh3095000@naver.com\n서영운 : youngwoon96@naver.com</string>
+</resources>
